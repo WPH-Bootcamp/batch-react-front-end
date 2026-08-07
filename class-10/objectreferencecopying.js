@@ -90,7 +90,7 @@ console.log(employee2.address.city);
 const person1 = {
     city: "Jakarta",
   },
-};
+
 
 const person2 = structuredClone(person1);
 
